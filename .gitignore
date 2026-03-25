@@ -1,0 +1,37 @@
+# Next.js
+frontend/.next/
+frontend/node_modules/
+frontend/out/
+frontend/build/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/.env
+
+# .NET
+backend/bin/
+backend/obj/
+backend/*.user
+backend/*.userosscache
+backend/*.sln.doccache
+backend/*.suo
+backend/*.userprefs
+backend/App_Data/
+backend/TestResults/
+backend/ClientBin/
+backend/Generated_Code/
+backend/ServiceReferences/
+backend/_ReSharper*/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
